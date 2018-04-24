@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Loupio\'s Journey</string>
+    <string name="TitleApp">The\nLoupio\'s\nJourney</string>
+    <string name="btPlay">PlayButton</string>
+    <string name="SaveLeave">Save and Leave</string>
+    <string name="ResumeGame">Continuer votre aventure</string>
+    <string name="exitGame">Quitter</string>
+</resources>
